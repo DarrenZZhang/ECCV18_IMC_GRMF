@@ -1,14 +1,16 @@
-This is a simple reimplementation matlab code for our paper
+# IMC_GRMF
 
-Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization, 
+This is a simple reimplementation of matlab codes for our paper:
 
-Published in European Conference on Computer Vision Workshop on CEFRL in Computer Vision, 2018.
+#### Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization, 
 
-if you have any problems, please don't hesitate to contact Jie Wen via: wenjie@hrbeu.edu.cn 
+Published in European Conference on Computer Vision Workshop on CEFRL in Computer Vision [Paper](https://drive.google.com/file/d/14F-Rje2uvheir9uQqW_twl4F58TaF50n/view), 2018.
 
-Platform: matlab2015a
+Implementation platform: matlab 2015a
 
-If you find the code is useful, please cite the following reference:
+If you have any questions, please don't hesitate to contact [Jie Wen](https://sites.google.com/view/jerry-wen-hit/home) via: wenjie@hrbeu.edu.cn.
+
+## If you find the code is useful, please cite the following reference:
 
 J. Wen, Z. Zhang, Y. Xu, Z. Zhong, B. Zhang, L. Fei, 
 European Conference on Computer Vision Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision, 2018.
