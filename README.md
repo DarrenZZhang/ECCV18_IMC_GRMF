@@ -10,7 +10,7 @@ Implementation platform: matlab 2015a
 
 If you have any questions, please don't hesitate to contact [Jie Wen](https://sites.google.com/view/jerry-wen-hit/home) via: wenjie@hrbeu.edu.cn.
 
-## If you find the code is useful, please cite the following reference:
+##### If you find the code is useful, please cite the following reference:
 
 J. Wen, Z. Zhang, Y. Xu, Z. Zhong, B. Zhang, L. Fei, 
 European Conference on Computer Vision Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision, 2018.
