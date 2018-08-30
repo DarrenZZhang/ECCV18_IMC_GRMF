@@ -12,5 +12,5 @@ If you have any questions, please don't hesitate to contact [Jie Wen](https://si
 
 #### If you find the code is useful, please cite the following reference:
 
-J. Wen, Z. Zhang, Y. Xu, Z. Zhong, B. Zhang, L. Fei, 
-European Conference on Computer Vision Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision, 2018.
+J. Wen, Z. Zhang, Y. Xu, Z. Zhong, B. Zhang, L. Fei, Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization, 
+ECCV Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision, 2018.
