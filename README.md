@@ -1,9 +1,10 @@
 This is a simple reimplementation matlab code for our paper
+
 Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization, 
 
+Published in European Conference on Computer Vision Workshop on CEFRL in Computer Vision, 2018.
 
-The code is written by Jie Wen, 
-if you have any problems, please don't hesitate to contact me via: wenjie@hrbeu.edu.cn 
+if you have any problems, please don't hesitate to contact Jie Wen via: wenjie@hrbeu.edu.cn 
 
 Platform: matlab2015a
 
