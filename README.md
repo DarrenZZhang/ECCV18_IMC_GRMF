@@ -1,6 +1,6 @@
 # IMC_GRMF
 
-This is a simple reimplementation of matlab codes for [our paper](https://drive.google.com/file/d/14F-Rje2uvheir9uQqW_twl4F58TaF50n/view):
+This is a simple reimplementation of matlab codes for [our paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Wen_Incomplete_Multi-view_Clustering_via_Graph_Regularized_Matrix_Factorization_ECCVW_2018_paper.pdf):
 
 #### Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization, 
 
